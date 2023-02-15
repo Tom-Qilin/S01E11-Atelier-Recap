@@ -11,10 +11,10 @@
 Une question ? Une idée ? Une proposition ?
 **Contactez-moi !**
 
-> john.doe@gmail.com
-> +33(0)7 08 09 10 11
-> [Linkedin](#)
-> [Twitter](#)
+> ✉ john.doe@gmail.com<br>
+> 📞 +33(0)7 08 09 10 11<br>
+> 👨‍💻 [Linkedin](#)<br>
+> 🐦[Twitter](#)
 
 à bientôt !
 
