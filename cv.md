@@ -10,7 +10,7 @@
 
 ### John Doe
 
-404 Avenue du web
+404 Avenue du web<br>
 75000 Paris
 
 [john.doe@gmail.com](mailto:john.doe@gmail.com)
